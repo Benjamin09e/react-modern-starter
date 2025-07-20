@@ -19,7 +19,7 @@ Une base moderne pour démarrer une application ReactJS propre, rapide et évolu
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/benjaminekia/react-modern-starter.git
+git clone https://github.com/Benjamin09e/react-modern-starter.git
 cd react-modern-starter
 npm install
 npm run dev
