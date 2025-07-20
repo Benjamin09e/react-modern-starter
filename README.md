@@ -42,7 +42,7 @@ react-modern-starter/
 ├── .gitignore
 ├── index.html
 ├── package.json
-├── tailwind.config.js
+├── vite.config.js
 └── README.md
 ```
 
